@@ -4,7 +4,7 @@
 <suite name="Tour">
 	<test name="simple test" parallel="methods" thread-count="4">
 		<classes>
-			<class name="com.qa.test.loginTest" />
+			<class name="com.edureka.projcert.App" />
 		</classes>
 	</test>
 </suite>
